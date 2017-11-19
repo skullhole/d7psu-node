@@ -1,2 +1,2 @@
 Configuration directory.
-Copy your configurations to local.json for development.
+Copy your configurations to default.json for development.
