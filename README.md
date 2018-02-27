@@ -3,12 +3,12 @@ Download the your github modules to the Drupal project with ease.
 1. Install *d7psu-node* to a server (e.g. http://username:password@example.com:3000).
 2. Update the project using drush command:
 
-{code}
+```
   drush @SITEALIAS dl -y PROJECT \
   --no-md5=1 \
   --destination=DIRECTORY \
   --source=SCHEME://USER:PASS@HOST:PORT/status/OWNER/PROJECT\?nocache=NOCACHE#
-{code}
+```
 
 * SITEALIAS - Drush alias
 * OWNER - Project owner (github user or org name)
