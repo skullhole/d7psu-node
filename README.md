@@ -1,4 +1,4 @@
-Download the your github modules to the Drupal project with ease.
+Download the github modules to the Drupal project with ease.
 
 1. Install *d7psu-node* to a server (e.g. http://username:password@example.com:3000).
 2. Update the project using drush command:
